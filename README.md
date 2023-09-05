@@ -1,4 +1,4 @@
-Hey! My name is Darren and I am a self taught ReactJS Frontend Web Developer!
+Hey! My name is Darren and I am a self taught ReactJS Frontend Web Developer! 🚀
 
 
 I started my self learning journey by completing the Harvard's CS50 course where I learned C, Python, SQL, etc., and more importantly: logic & problem solving skills which have helped me tremendously throughout my journey.
